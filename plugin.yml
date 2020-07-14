@@ -1,9 +1,9 @@
 name: Server
-version: 1.0.0
+version: 1.0.1
 author: norhu1130
 description: Server Only Plugin
 
 main: main.Main
 commands:
-  admin: 
+  server: 
     description: "About Plugin"
